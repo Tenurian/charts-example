@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@weknow/react-bubble-chart-d3": "^1.0.11",
     "react": "^16.5.2",
+    "react-bubble-chart": "^0.4.0",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react-scripts": "2.0.4",
+    "react-vis": "^1.11.4"
   },
   "scripts": {
     "start": "react-scripts start",
